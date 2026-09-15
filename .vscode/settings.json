@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "./26. 协程 Coroutine/demo"
+  ]
+}
